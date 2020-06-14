@@ -7,6 +7,6 @@ This couse is one of the five couses from Deep-leaning.ai
 
 
 ***Cheat sheet by Stanford University*** :evergreen_tree:
-<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/cheatsheet-deep-learning-tips-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-003.png?" alt="Illustration" width="1024px"/></a>| 
+<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-003.png" alt=“Illustration” width=“220px”/></a>| 
 ------------ | 
 |Convolutional Neural Networks|
